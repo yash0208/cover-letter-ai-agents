@@ -32,8 +32,7 @@ This project leverages generative AI to assist job seekers by analyzing their re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/generative-ai-tools.git
-   cd generative-ai-tools
+   git clone https://github.com/your-repo/generative-ai-tools.git](https://github.com/yash0208/cover-letter-ai-agents.git
    ```
 
 2. Install dependencies:
