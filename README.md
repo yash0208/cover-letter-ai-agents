@@ -62,7 +62,7 @@ This project leverages generative AI to assist job seekers by analyzing their re
 
    Execute the script:
    ```bash
-   python generative_ai_tools.py
+   python main.py
    ```
 
 3. **Output**:
